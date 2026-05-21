@@ -147,15 +147,30 @@ npm start
 
 # Screenshots
 
-Add screenshots of your application here.
 
 Example:
 
-```md
-![Homepage](./screenshots/homepage.png)
-```
+Homepage
 
----
+<img width="1901" height="951" alt="image" src="https://github.com/user-attachments/assets/062e968b-655c-43c6-9d63-32dc2718ab22" />
+<img width="1917" height="875" alt="image" src="https://github.com/user-attachments/assets/95e809e5-0b61-404d-a1fc-72621658b36d" />
+<img width="1891" height="837" alt="image" src="https://github.com/user-attachments/assets/e5d3fb3c-f763-4e54-a965-4ce4f9f52de7" />
+
+Login Page
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/03c4cb70-5378-4286-9ae6-99d665b7d3d3" />
+
+Signup Page
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/d6ccd851-18f0-4549-a263-e0dfda735754" />
+
+Dashboard
+<img width="1914" height="905" alt="image" src="https://github.com/user-attachments/assets/1f31b6ef-30b8-41db-8573-46b21d408d1d" />
+
+Upload Resume
+<img width="1915" height="945" alt="image" src="https://github.com/user-attachments/assets/11b8e0d7-fa34-4093-9d8c-33cfa70e4abc" />
+
+Analysis
+<img width="1919" height="866" alt="image" src="https://github.com/user-attachments/assets/7a3d5e8a-70ec-47c7-b42e-49cc54eead76" />
+
 
 # Learning Outcomes
 
